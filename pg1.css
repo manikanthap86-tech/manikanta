@@ -13,7 +13,7 @@ body {
 .sidebar {
     width: 240px;
     height: 100vh;
-    background: #172554;
+    background: #093de9;
     color: white;
     padding: 30px 20px;
 }
@@ -69,13 +69,13 @@ header p {
 }
 
 .activity {
-    background: white;
+    background: rgb(159, 201, 80);
     padding: 25px;
     border-radius: 12px;
 }
 
 .activity p {
     padding: 15px 0;
-    border-bottom: 1px solid #e2e8f0;
+    border-bottom: 1px solid #ad522e;
 }
 
